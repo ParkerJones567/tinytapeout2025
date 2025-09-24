@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Testing Project
-
+2 4 bit inputs, 1 5 bit output
 ## How to test
 
-See if flow works
+4 bit adder
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none
